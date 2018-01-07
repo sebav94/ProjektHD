@@ -1,0 +1,11 @@
+C:\Users\Ania\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Ania\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\Ania\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\Ania\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\Ania\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\Ania\documents\visual studio 2015\Projects\Test\Test\obj\Debug\ProjektHD.csprojResolveAssemblyReference.cache
+C:\Users\Ania\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Ania\documents\visual studio 2015\Projects\Test\Test\obj\Debug\ProjektHD.csproj.GenerateResource.Cache
+C:\Users\Ania\documents\visual studio 2015\Projects\Test\Test\bin\Debug\MySql.Data.dll
+C:\Users\Ania\documents\visual studio 2015\Projects\Test\Test\bin\Debug\MySql.Data.xml
+C:\Users\Ania\documents\visual studio 2015\Projects\Test\Test\obj\Debug\ProjektHD.Form1.resources
